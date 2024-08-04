@@ -1,0 +1,5 @@
+[client]
+
+# Controls whether the default sidebar page navigation in
+# a multi-page app is displayed. Default is true.
+showSidebarNavigation = false
